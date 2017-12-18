@@ -3,6 +3,6 @@
 
 收集一些工具
 
-- Android SDK 包的 [draw9patch](https://github.com/jeroliang/draw9patch)
+- Android SDK 包的 [draw9patch](https://github.com/jeroliang/-Tools/tree/master/draw9patch)
 
 
